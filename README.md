@@ -1,6 +1,6 @@
 # Cafe Menu Website
 
-![Camper Cafe](https://your-cafe-logo-url.com)
+![Camper Cafe](https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg)
 
 This repository contains the code for a simple cafe menu website for "Camper Cafe." The website showcases a selection of coffee and dessert options along with their respective prices. It was created using HTML and CSS, and includes responsive design for optimal viewing on various devices.
 
@@ -20,9 +20,9 @@ The "Camper Cafe" is a fictional coffee shop that was established in 2020. This 
 
 ## Preview
 
-![Cafe Menu Preview](https://your-cafe-menu-preview-url.com)
+![Cafe Menu Preview](file:///C:/Users/omar/OneDrive/Desktop/C-deploma/testing/Lec%201/output/tocoder/cafeMenu.html)
 
-You can see a live preview of the cafe menu website [here](https://your-live-demo-url.com).
+
 
 ## Features
 
