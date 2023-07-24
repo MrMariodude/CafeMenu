@@ -12,7 +12,6 @@ This repository contains the code for a simple cafe menu website for "Camper Caf
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [CSS Styles](#css-styles)
 
 ## Introduction
 
@@ -20,7 +19,7 @@ The "Camper Cafe" is a fictional coffee shop that was established in 2020. This 
 
 ## Preview
 
-![Cafe Menu Preview](file:///C:/Users/omar/OneDrive/Desktop/C-deploma/testing/Lec%201/output/tocoder/cafeMenu.html)
+![Cafe Menu Preview](https://drive.google.com/file/d/1nT-09ZQifMDABQQwjdvps4dT7F7sg0eX/view?usp=drive_link)
 
 
 
