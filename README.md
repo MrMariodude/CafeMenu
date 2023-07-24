@@ -34,7 +34,7 @@ The "Camper Cafe" is a fictional coffee shop that was established in 2020. This 
 
 ## Usage
 
-To view the cafe menu locally, simply open the `index.html` file in your web browser.
+To view the cafe menu locally, simply open the `CafeMenu.html` file in your web browser.
 
 ## Contributing
 
