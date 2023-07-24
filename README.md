@@ -19,7 +19,7 @@ The "Camper Cafe" is a fictional coffee shop that was established in 2020. This 
 
 ## Preview
 
-[Visit our website](https://academy.topcoder.com/freeCodeCamp/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1)
+![Cafe Menu Preview](https://drive.google.com/file/d/1Np0J6qIL1LRYqplllQJmbqvD9DLVdNxT/view?usp=drive_link)
 
 
 
