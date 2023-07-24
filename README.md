@@ -19,7 +19,7 @@ The "Camper Cafe" is a fictional coffee shop that was established in 2020. This 
 
 ## Preview
 
-![Cafe Menu Preview](https://drive.google.com/file/d/1Np0J6qIL1LRYqplllQJmbqvD9DLVdNxT/view?usp=drive_link)
+![Cafe Menu Preview](https://drive.google.com/uc?export=view&id=1Np0J6qIL1LRYqplllQJmbqvD9DLVdNxT)
 
 
 
